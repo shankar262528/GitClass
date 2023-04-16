@@ -9,5 +9,9 @@ public class EmployeeDetails {
 		System.out.println("shankar");
 
 	}
+	private void employee3() {
+		System.out.println("sastika");
+
+	}
 
 }
